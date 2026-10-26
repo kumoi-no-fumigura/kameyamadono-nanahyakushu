@@ -1,0 +1,50 @@
+kameyamadono-nanahyakushu-000251	251		河萩	はきか花ちらまくおしみ駒とめて影をたにみん野路の玉川	
+kameyamadono-nanahyakushu-000252	252		庭萩	いねかてに老の袖をそぬらしける独ある庭のはきの白露	
+kameyamadono-nanahyakushu-000253	253		女郎花靡風	ひとかたになひともなく女郎花おほかる野へは秋風そふく	
+kameyamadono-nanahyakushu-000254	254		野女郎花冨小路前大納言	幾年か秋のさか野の女郎花つかふる道になれてみつらん	
+kameyamadono-nanahyakushu-000255	255		行路薄	旅人の野へのゆきゝはしけからてひまなくまねく花すゝき哉	
+kameyamadono-nanahyakushu-000256	256		原薄	わけいれはあしたの原の花すゝきほにいつる秋そふかくなりゆく	
+kameyamadono-nanahyakushu-000257	257		才庵	我袖の老の涙をかるかやのおもひみたれて露そこほるゝ	
+kameyamadono-nanahyakushu-000258	258			咲にけりたかぬきかけしふちはかまきてこそとはめ匂ふかきりは	
+kameyamadono-nanahyakushu-000259	259			朝露のひぬまはかりをさかりにてまかきにかゝる朝顔の花	
+kameyamadono-nanahyakushu-000260	260		里虫	つかふとてさかのゝ道はいそけともきゝすてらるゝ虫のこゑかは	
+kameyamadono-nanahyakushu-000261	261		原虫	夜さむなる野原のかせもふけぬとや有明月に虫のなくらん	
+kameyamadono-nanahyakushu-000262	262		経生	よそなからきゝてやすきん秋のゝにわくれはたゆむ虫の声哉	
+kameyamadono-nanahyakushu-000263	263		庄屋虫	野原なる草の庵の夕露にたれにとへとかまつむしのなく	
+kameyamadono-nanahyakushu-000264	264		庭虫	老てすむ庭の浅茅生かれにこはれぬ宿のまつむしの聲	
+kameyamadono-nanahyakushu-000265	265		金虫	ねやにいる夜風もさむくなるまゝに枕になるゝきりす哉	
+kameyamadono-nanahyakushu-000266	266		聞虫同	山かけはまつきゝそめぬゆふつく日さすや岡への松虫のこゑ	
+kameyamadono-nanahyakushu-000267	267		雲間初雁	玉章の外にものかつはさには雲をもかけて雁はきにけり	
+kameyamadono-nanahyakushu-000268	268		山初雁	帰る山雲そうかりし雁金のみやこにいそく道はかはらし	
+kameyamadono-nanahyakushu-000269	269		岸神雁	霧のうちにまた玉章はみえねとも峯ことえきたる秋の雁かね	
+kameyamadono-nanahyakushu-000270	270		遠朝丁	まちえてもさたかにはみす村雲の数たつるをちの玉章	
+kameyamadono-nanahyakushu-000271	271		近初雁	みこしちや遠き雲ゐの音信もたとらてきぬる初かりの声	
+kameyamadono-nanahyakushu-000272	272		初聞丁	秋風の吹とせしまにさそはれて空にそきなく初雁声	
+kameyamadono-nanahyakushu-000273	273		初雁幽	おも影はそれともなし夕くれのみねとひこゆる初雁の声	
+kameyamadono-nanahyakushu-000274	274		朝鹿	けさはまたいつくをかけとかくるらん猶つまこひのさをしかの声	
+kameyamadono-nanahyakushu-000275	275		夕麻	小男鹿も妻を恋てやから衣日もゆふくれにねをはたつらん	
+kameyamadono-nanahyakushu-000276	276		夜鹿	妻こひのうらみをそへて真葛原夜寒の風に鹿そなくなる	
+kameyamadono-nanahyakushu-000277	277		谷鹿	おもひいる谷のかけはしかけてたにあはぬ妻恋に鹿やなくらん	
+kameyamadono-nanahyakushu-000278	278		岡鹿	鳴鹿のわか妻恋は難面てならひの岡に秋風そふく	
+kameyamadono-nanahyakushu-000279	279		海辺鹿	淡路嶋せと行舟のはやからてきかはやしはし小男鹿の声	
+kameyamadono-nanahyakushu-000280	280		田鹿	もる人のまとろむほとか秋の田の庵のあたりに鹿そなくなる	
+kameyamadono-nanahyakushu-000281	281			うれへある涙の露やかゝるらん秋のうつらのころもての里	
+kameyamadono-nanahyakushu-000282	282			呉竹の伏見の沢にふす鴫の床もよさむに秋かせもふく	
+kameyamadono-nanahyakushu-000283	283		秋田	東ときつ田の稲葉打なひきほなみにかはる秋の夕風	
+kameyamadono-nanahyakushu-000284	284		秋夕中納言入道	此秋は老をそへてそなけきつるむかしよりうき夕くれの空	
+kameyamadono-nanahyakushu-000285	285		秋雨同	我はかりたれか身をゝる袖はあるととはゝや秋の村雨の空	
+kameyamadono-nanahyakushu-000286	286		関東太郎	関の戸はあけやしぬらん秋霧のなをたちこむるあふ坂の山	
+kameyamadono-nanahyakushu-000287	287		河霧	なみかくる井せきもみえす大ゐ川霧になかるゝ音はかりして	
+kameyamadono-nanahyakushu-000288	288		浦霧	みすもあらすみもせぬ霧の絶まよりゆくゑさためぬ浦の舟人	
+kameyamadono-nanahyakushu-000289	289		駒迎	今もかも絶せぬ物はとしことの秋のなかはの望月のこま	
+kameyamadono-nanahyakushu-000290	290			久かたの等なし雲井にすむ月も秋のもなかのひかりそひけり	
+kameyamadono-nanahyakushu-000291	291		夕月	またれしとまたくれはてぬ山のはをひかりうすくて出る月かな	
+kameyamadono-nanahyakushu-000292	292		夜月	いねにてに秋はこよひと大空のくもらぬことに月をみるかな	
+kameyamadono-nanahyakushu-000293	293		暁月	空はまた霧のみふかくたちこめてかすかにのこる有明の月	
+kameyamadono-nanahyakushu-000294	294		山月	しはしなを嶺をはいてゝしけりあふ松をそこえぬ秋のよの月	
+kameyamadono-nanahyakushu-000295	295		正月	いとゝなを雪にひかりそさえまさるふしのね出る秋のよの月	
+kameyamadono-nanahyakushu-000296	296		谷月	流行をとはのこりてすむ月の影のみこほる谷川の水	
+kameyamadono-nanahyakushu-000297	297		仙月同	月のすむ家のそまの宮木をもくもらぬ御代のためしにそひく	
+kameyamadono-nanahyakushu-000298	298		岡月	ねてあかす人やなからん水くきの岡のやかたの秋の月	
+kameyamadono-nanahyakushu-000299	299		仕月	身をしれはかたふく影そあはれなる老その森の月をみるも	
+kameyamadono-nanahyakushu-000300	300			すみれつみし春をわすれて秋のよも野をなつかしみやとる月	

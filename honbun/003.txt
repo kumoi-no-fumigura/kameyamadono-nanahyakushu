@@ -1,0 +1,50 @@
+kameyamadono-nanahyakushu-000101	101		花鏡	うたてなとうつる鏡の池水にくもるをしらて花のちるらん	
+kameyamadono-nanahyakushu-000102	102		花錦	春霞たゝたちかくせ風吹は花の錦のみたれもそする	
+kameyamadono-nanahyakushu-000103	103		花匂	匂はすはしらせやすさん山桜木のもとたとる春の夕暮	
+kameyamadono-nanahyakushu-000104	104		花色	山さくらあたなる花の色をみていたつらにこそ我も老ぬれ	
+kameyamadono-nanahyakushu-000105	105		花便	花ゆへは風のたよりもつらけれは人をもまたし春の山里	
+kameyamadono-nanahyakushu-000106	106		花主	はなゆへに人もとひこは春ことになを植そへん庭のさくら木	
+kameyamadono-nanahyakushu-000107	107		花面影	おもかけをかすめる雲にさきたてゝ桜いろなるきさらきのそら	
+kameyamadono-nanahyakushu-000108	108		花形見	墨染の色になこりそとゝまらぬ昔の袖のはなのかたみは	
+kameyamadono-nanahyakushu-000109	109		惜花	とゝまらて散とも花の面影はおしむ心に猶やのこらん	
+kameyamadono-nanahyakushu-000110	110		落花	散花のなこりはなへてしたへともふるわゆく身をは人もおします	
+kameyamadono-nanahyakushu-000111	111		引花	今は身によそなる春のつらき哉一木か花もなこりある世に	
+kameyamadono-nanahyakushu-000112	112		苗代	せきかへる苗代水のさまにわくるや人のこゝろなるらん	
+kameyamadono-nanahyakushu-000113	113			うき草のねを絶てなと池水のおなし汀にかはつなくらん	
+kameyamadono-nanahyakushu-000114	114			うすくこく岡部にさける岩つゝしいはねと春の色とみえけり	
+kameyamadono-nanahyakushu-000115	115		杜若前藤大納言	咲ぬれはうつれる池のかきつはたをのか影をもへたてさりけり	
+kameyamadono-nanahyakushu-000116	116		款冬露	朝ほらけ花の花もとく春風に露もこほれてにほふ山吹	
+kameyamadono-nanahyakushu-000117	117		夕歌冬	咲つゝく岸の山吹かけみえてなかれはゆかぬ花のゆふなみ	
+kameyamadono-nanahyakushu-000118	118			をく露のひまこそなけれ吉野川波うつ岸の山ふきの花	
+kameyamadono-nanahyakushu-000119	119		里款冬	さかりとはいはても人にとはれけり里のなにさく山ふきの花	
+kameyamadono-nanahyakushu-000120	120		籬款冬	くれてゆく春の形見と故郷のかきほにさけるやまふきの花	
+kameyamadono-nanahyakushu-000121	121		池藤	咲にけり底にうつろふ影みれはおなしすかたの池の藤波	
+kameyamadono-nanahyakushu-000122	122		江藤	松かえによせてかさなる住の江の波にも藤の色をやはみる	
+kameyamadono-nanahyakushu-000123	123		浦藤	あま人のかさしなるらし春ことに波もてかへる田子のうら藤	
+kameyamadono-nanahyakushu-000124	124		岸藤	住の江の岸にはいかて咲ぬらんよすともみえぬ春の藤なみ	
+kameyamadono-nanahyakushu-000125	125		松藤	老う身に又もやあると君か代のめくみを松にかくる藤波	
+kameyamadono-nanahyakushu-000126	126		御製	老か身を嶺の入日にたとへてもたのまぬ春のくれんとすらん	
+kameyamadono-nanahyakushu-000127	127		暮春月	有明のわかれはやよひ今いくかくれなはな気の月の影かは	
+kameyamadono-nanahyakushu-000128	128		暮春霞	くれかゝる日数しられて三月山うすくなりゆく春霞かな	
+kameyamadono-nanahyakushu-000129	129			限りありて足もやすめす春やゆく夢まておしきけふのわかれち	
+kameyamadono-nanahyakushu-000130	130		御製	一年に三月かさなる時にこそふたゝひ春のものおもふなれ	
+kameyamadono-nanahyakushu-000131	131			春とのみ猶したはれて心にもしられぬ夏やけさはきぬらん	
+kameyamadono-nanahyakushu-000132	132		朝更衣	よとゝもに春のわかれをしたひきて明れはかふる花そめの袖	
+kameyamadono-nanahyakushu-000133	133		惜更衣	けふかふる花の袂の移りかを春の形見と猶したふかな	
+kameyamadono-nanahyakushu-000134	134		餘花	ちりのこる花かあらぬか夏山の青葉か下にかゝるしら雲	
+kameyamadono-nanahyakushu-000135	135		新樹	花さかてひとりさめにしまつか枝のおなしみとりにしける夏山	
+kameyamadono-nanahyakushu-000136	136		夕卯花	山賤は夕くれことにうの花のまかきはかりに月やみるらん	
+kameyamadono-nanahyakushu-000137	137		夜卯花	夏のよの空にのこらぬ月影をかきねに埋むやとのうろ花	
+kameyamadono-nanahyakushu-000138	138		河卯花侍従中納言	山城のゐ手の玉川はるときしうつ波にさける卯の花	
+kameyamadono-nanahyakushu-000139	139		行路卯花	雪ならはわけつる跡もありなまし道たとるまてさける卯の日	
+kameyamadono-nanahyakushu-000140	140		山家卯花	起てすむ山のかきほのいかにして身を卯の花のさかりみすらん	
+kameyamadono-nanahyakushu-000141	141			もろは草かけてわたりし昔をは神もわするなかもの河なみ	
+kameyamadono-nanahyakushu-000142	142		待郭公	郭公いまはまたしとまちかねてねなんこよひやなきてすくらん	
+kameyamadono-nanahyakushu-000143	143		尋時鳥	一声も鳴てしらせよ足曳のやま時鳥いつくなるらん	
+kameyamadono-nanahyakushu-000144	144		人伝郭公	なきぬとも我とはきかす時鳥人のかたるをおなしねにして	
+kameyamadono-nanahyakushu-000145	145		始聞郭公	時鳥われは初ねときくものをまた誰里になきてきつらん	
+kameyamadono-nanahyakushu-000146	146		郭公未遍	われにのみ猶も初ねやおしむらん人伝にきくほとゝきすかな	
+kameyamadono-nanahyakushu-000147	147		月前郭公前藤大納言	つれなしと思へはさすか時鳥有明の月になきてすきぬかる	
+kameyamadono-nanahyakushu-000148	148		雲外郭公	おなしくは聞さためはや遠さかる声は雲井の山ほとゝきす	
+kameyamadono-nanahyakushu-000149	149		雨中郭公	降雨にぬれきてや時鳥はれぬ雲まにことかたるらん	
+kameyamadono-nanahyakushu-000150	150		暁時鳥	よなくはまたれてそなく時鳥いつもね覚を聞ときにして	

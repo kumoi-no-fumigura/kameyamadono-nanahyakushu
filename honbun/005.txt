@@ -1,0 +1,50 @@
+kameyamadono-nanahyakushu-000201	201		夏山	いかにしてうきみかくさん夏山のしけき木かけにやとりとめても	
+kameyamadono-nanahyakushu-000202	202		夏野	里人もなをたとるらん夏草のしけみ集のをのゝふるみち	
+kameyamadono-nanahyakushu-000203	203		岡射	短夜のあくるにつけては山なる嶺のともしの影そきえゆく	
+kameyamadono-nanahyakushu-000204	204		越川	大井川さはしもともすかゝり火に響はあやなきうよひ舟かな	
+kameyamadono-nanahyakushu-000205	205		夜蛍	きえやすき思ひなからし夏のよのみしかきほとにもゆるほたるは	
+kameyamadono-nanahyakushu-000206	206		橋添御製	夏のよはとふや蛍の玉ちりてをたえの橋にみたれゆらん	
+kameyamadono-nanahyakushu-000207	207		水上留	水くらき芦まにすたく夏虫はをのれもえてやよをは知らん	
+kameyamadono-nanahyakushu-000208	208		也蛍	みれは又移ふかけも大沢の池のたまもに飛ほたる哉	
+kameyamadono-nanahyakushu-000209	209		江戸	芦火たく煙はみえす難波かた入江のなみをやくほたる哉	
+kameyamadono-nanahyakushu-000210	210		沢蛍	飛蛍さはへの水にうつれはやもえても影のすゝしかるらん	
+kameyamadono-nanahyakushu-000211	211		南蛮	蜑のたく浦のおし火のよるは波にもゆるやほたるなるらん	
+kameyamadono-nanahyakushu-000212	212		草蛍	よもすからすたく蛍のひかりにて草葉の露のかつやみゆらん	
+kameyamadono-nanahyakushu-000213	213		蛍似露	飛蛍きえすはありとも人とはゝ野原の露と猶やこたへん	
+kameyamadono-nanahyakushu-000214	214		蛮似玉	いせの海やきよき諸の夕波にひろはぬ玉はほたるなりけり	
+kameyamadono-nanahyakushu-000215	215		蚊遣火	いとゝ猶にきはふ里の夕煙またたてそふるかやり火のかけ	
+kameyamadono-nanahyakushu-000216	216		夕顔	咲てこそ人にとはるれ夕皃の花はいやしきかきねなれとも	
+kameyamadono-nanahyakushu-000217	217			吹風にうへこす池のさゝ波そはすのうきはの玉をなしける	
+kameyamadono-nanahyakushu-000218	218		氷室	夏衣たちよる袖やうすからく山下風もさゆる度むろに	
+kameyamadono-nanahyakushu-000219	219		夕立風	空くもりたゝひとしきり吹風のをやむとみれは過るゆふ立	
+kameyamadono-nanahyakushu-000220	220		夕立雲	なる神も雲のいつこになりぬらんよそにすきゆく夕立のそふ	
+kameyamadono-nanahyakushu-000221	221		山夕立	なる神の音は高雄の山風に雨よりも猶雲ぞさきたつ	
+kameyamadono-nanahyakushu-000222	222		晦日海夕立	一しきりやまちにしつる夕立のすきてそにこる谷川の水	
+kameyamadono-nanahyakushu-000223	223		夕立早過同	かきくれてやかてそはるゝ山端にかゝるとみつる夕立の雲	
+kameyamadono-nanahyakushu-000224	224		杜弾	蝉の声きけは秋こそいそかるれいつも常葉の杜のなられと	
+kameyamadono-nanahyakushu-000225	225		樹陰蝉	夏ふかくしける木陰になくせみの声もすゝしき庭のゆふ風	
+kameyamadono-nanahyakushu-000226	226			すゝしさは水の心にまかせけり秋をともにはせきいれねとも	
+kameyamadono-nanahyakushu-000227	227		夕納涼	小倉山松の木陰の下すゝみゆふくれはかりかよふ秋かせ	
+kameyamadono-nanahyakushu-000228	228		納涼風	扇をもわするはかりに吹風を秋やゆふへとおもひける哉	
+kameyamadono-nanahyakushu-000229	229		紀涼忘夏	わすれては秋かとそ思ふ小くら山音もすゝしき峯のまつかせ	
+kameyamadono-nanahyakushu-000230	230			御祓川ゆくせにうかふあきのはのをのつから吹風そ秋なる	
+kameyamadono-nanahyakushu-000231	231			今朝のまに快すゝしき夏衣一夜にたちぬ秋のはつかせ	
+kameyamadono-nanahyakushu-000232	232		伊季	をとつるゝ萩の葉よりも吹風のすゝしきにこそ秋はしらるれ	
+kameyamadono-nanahyakushu-000233	233		初秋露	老か身は涙の露のいとゝしくこほれやすきに秋そしらるゝ	
+kameyamadono-nanahyakushu-000234	234			あふことはけふと思へと七夕のくるゝまつまの心をそしる	
+kameyamadono-nanahyakushu-000235	235			かさぬともおもはぬ物を七夕の春のころもやたちわかるらん	
+kameyamadono-nanahyakushu-000236	236			秋ことにけふをさしてやあまの川わたくそめけんかさゝきの橋	
+kameyamadono-nanahyakushu-000237	237			あまの川こよひ遠瀬の秋風に雲のころものつまかへるらん	
+kameyamadono-nanahyakushu-000238	238			七夕のこよひとたのむ影なれや夕の月のつまむかひふね	
+kameyamadono-nanahyakushu-000239	239			七夕の雲の衣もうちしほれけさかへるさはさそしくるらん	
+kameyamadono-nanahyakushu-000240	240			七夕の五百機衣かさねても今朝きぬの袖そつゆ気き	
+kameyamadono-nanahyakushu-000241	241		暁露	草葉より猶そしほるゝね覚する袖をさきにや露はをくらん	
+kameyamadono-nanahyakushu-000242	242		朝露	露をたに結ひもとめす旅もろもあさたつ袖に秋風そ吹	
+kameyamadono-nanahyakushu-000243	243		夕西路	身を秋の涙や露にをらへけん夕はわきて袖ぬらせとは	
+kameyamadono-nanahyakushu-000244	244		夜露	露や猶をきまさるらん野原なる草はもわけてよるそしほるゝ	
+kameyamadono-nanahyakushu-000245	245		野露	こぬ人をまねくにつけて花すゝき野原の露そ袖にとまらぬ	
+kameyamadono-nanahyakushu-000246	246		径露	諸人も道の露をやわけつらん鹿なく秋の君かなさけに	
+kameyamadono-nanahyakushu-000247	247		庭露	露のみそ秋といふより朝ことにまかきの草にまつむすひける	
+kameyamadono-nanahyakushu-000248	248		萩風	時々もあれ萩のはむけのそよ更に空や秋なる風そ身にしむ	
+kameyamadono-nanahyakushu-000249	249		江萩	ほにいつる入江の萩のうは露に結ひもはてぬ秋の浦風	
+kameyamadono-nanahyakushu-000250	250		里新	萩か花咲そめしより宮城のゝこの下露にぬれぬ日はなし	

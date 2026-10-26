@@ -1,0 +1,50 @@
+kameyamadono-nanahyakushu-000401	401		む冬月同	光そふ月のかつらはかれもせてわかたつ杣そ猶さかふへき	
+kameyamadono-nanahyakushu-000402	402		何冬月	大井川さらてもきよき月影を冬はこほりや猶みよくらん	
+kameyamadono-nanahyakushu-000403	403		冬津月	月影も更行まゝに霜そをくさゆるは冬のならひなれとも	
+kameyamadono-nanahyakushu-000404	404		豊明節会中納言入道	乙女子か袖ふることのわすれぬは豊のあかりのむかし也けり	
+kameyamadono-nanahyakushu-000405	405			夜を寒みさほの山風さえまさり河瀬のなみに千鳥鳴也	
+kameyamadono-nanahyakushu-000406	406			更行はやとるもさむき月影を友とや磯にちとりなくらん	
+kameyamadono-nanahyakushu-000407	407			泉川わたりを遠み月さえて氷のうへにちとりなくなり	
+kameyamadono-nanahyakushu-000408	408			立波のまなくもなくか友千鳥さほの河瀬のさゆる霜夜に	
+kameyamadono-nanahyakushu-000409	409		団子鳥	つかへこし跡にのこりて浦千鳥あるかひもなきねをのみそなく	
+kameyamadono-nanahyakushu-000410	410		焼水鳥	影やとす有明の月を池水のうさねこほると鴨やなくらん	
+kameyamadono-nanahyakushu-000411	411		池水鳥	池水につかはぬ鷲はねぬなはのくるよもなしとねをや鳴らん	
+kameyamadono-nanahyakushu-000412	412		江水鳥	わひつゝはつかはぬ友とたのむらしおなし入江の駕のひとりに	
+kameyamadono-nanahyakushu-000413	413		尋細代	立よりていさみにゆかんものゝふの八十氏河のせゝのあしろに	
+kameyamadono-nanahyakushu-000414	414		夜網代	袖ぬれてあしろにひをのよるは宇治の橋姫契りまつらん	
+kameyamadono-nanahyakushu-000415	415		朝霰	いつこより霰ふるらんかきくもる朝けの空は雪けなからに	
+kameyamadono-nanahyakushu-000416	416		夜霰	昔のまはしくれてすくる里のうへにまたをとかへてふる霰かな	
+kameyamadono-nanahyakushu-000417	417		竹覆	得る夜のね覚のとこにをとつれて竹の葉そよきふるあられ哉	
+kameyamadono-nanahyakushu-000418	418		篠霰	道のへのしのゝ小篠に降あられ一むらすきて玉そみたるゝ	
+kameyamadono-nanahyakushu-000419	419		屋上露	板ひさし竹の柱のかりの世にうちおとろけとふるあられ哉	
+kameyamadono-nanahyakushu-000420	420		羽宿	冬もきぬさひしさまさる苔の庭はたれにふれるけさの初雪	
+kameyamadono-nanahyakushu-000421	421		山雪	あらし吹末の松山いくかへりくたけてこゆる雪のしるなみ	
+kameyamadono-nanahyakushu-000422	422		山領雪	よそなからわくともわかゝ嶺たるみ雲もひとつにつもる白雪	
+kameyamadono-nanahyakushu-000423	423		谷雪	山人のつま木の道もあとたえて雪にあやうき谷のかけはし	
+kameyamadono-nanahyakushu-000424	424		杣雪	みわつや消てなかるゝ白雪はくたす松木にふりやつむらん	
+kameyamadono-nanahyakushu-000425	425		杜宿	降雪のかさなる色も白妙の袖とやみえんころもてろもり	
+kameyamadono-nanahyakushu-000426	426		野宿	ふる雪に道ふみまよふかち人の物ともはてなきむさしのゝ原	
+kameyamadono-nanahyakushu-000427	427			ふかくのみつもる里路をわけかねて雪に心とゝまるたひ人	
+kameyamadono-nanahyakushu-000428	428		経雪	雪ふかき野原の道もさきにたつ人のあとにそまよはさりける	
+kameyamadono-nanahyakushu-000429	429		湖雪	ひらの海や氷も波もうつもれて降そふ雪に山かせそふく	
+kameyamadono-nanahyakushu-000430	430		南雪	浦遠くあまの戸明てなかむれは雪降にけり漬路しま山	
+kameyamadono-nanahyakushu-000431	431			降雪はつもりにけりなすみよのいてみのはまの冬の明ほの	
+kameyamadono-nanahyakushu-000432	432		嶋宿	みわたせは浦のはつ嶋はつかにも雪より外の色そのこらぬ	
+kameyamadono-nanahyakushu-000433	433		者雪	きのふまて外山はかりにふるとみし雪そ都にけふつもりける	
+kameyamadono-nanahyakushu-000434	434		麓中雪	九重の精の雪をたちなれしみはしの花のかけかとそみる	
+kameyamadono-nanahyakushu-000435	435		社頭雪冨小路前中納言	ふりにける都の小野わきてゝも雪まや神のあとをたれけん	
+kameyamadono-nanahyakushu-000436	436		伊季	鐘の音やしるへなるらん初瀬山度はらもみえすつもる白雪	
+kameyamadono-nanahyakushu-000437	437		故郷雪	咲花の面影のこす白雪をとはぬもつらく志賀の故里	
+kameyamadono-nanahyakushu-000438	438		里雪	通ひこゝ家路もみえす白妙につゝきの里の雪の明ほの	
+kameyamadono-nanahyakushu-000439	439		山家雪	ふりつみてこ山の道の絶しよりつま木にたのむ松の雪おれ	
+kameyamadono-nanahyakushu-000440	440		宝永宿	雪ふれは門田の稲もかりにゝを又くもをなす有明の空	
+kameyamadono-nanahyakushu-000441	441		「同	山里の雪のうちこそしつかなれとふへき人もあらしとおもへは	
+kameyamadono-nanahyakushu-000442	442		松雪	消なくに又降つもる松の雪かゝれる枝そさらにおれふす	
+kameyamadono-nanahyakushu-000443	443		竹雪同	あとたえてまかきの山もうつもれぬ音さへさひ竹の雪折	
+kameyamadono-nanahyakushu-000444	444		松雪	三輪の山杉のしるくもなかりけりみとりをうつむ雪のしらゆふ	
+kameyamadono-nanahyakushu-000445	445		狩臺風為明朝臣	夕くれは淀の河かせ身にしめてかたのゝを野をかへるかり人	
+kameyamadono-nanahyakushu-000446	446		夕鷹狩	いくつかれ空とる鷹のおち草もみえすなりぬる野への夕暮	
+kameyamadono-nanahyakushu-000447	447		野鷹狩	はし鷹のこゐにかゝりてたつ鳥のおち草なひく野への夕暮	
+kameyamadono-nanahyakushu-000448	448		炭竃煙	冬寒み得る日も猶すみかまの煙は空に立まさりけり	
+kameyamadono-nanahyakushu-000449	449		遠炭竃	こはやなをのゝすみかまをのつから返ひしは雪ふかくとも	
+kameyamadono-nanahyakushu-000450	450		大火	身の春をさてもまちえは埋火のうつもれはつる名をはのこさし	

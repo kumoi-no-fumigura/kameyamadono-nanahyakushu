@@ -1,0 +1,50 @@
+kameyamadono-nanahyakushu-000151	151		暑時鳥	きぬのうさもしらしを天の戸をををし明かたになくほとゝきん	
+kameyamadono-nanahyakushu-000152	152		朝時鳥	いつくよりなきていつらん朝戸明てなかむる空のやま時鳥	
+kameyamadono-nanahyakushu-000153	153		夕時鳥	偽の人こそあらめ時鳥まつ夕くれのそらなすこそ	
+kameyamadono-nanahyakushu-000154	154		夜時鳥	やとりとる人やきくらんみしか夜の空もくらふの山ほとゝきす	
+kameyamadono-nanahyakushu-000155	155		山郭公	時鳥たれにまたれて足引のやまちをいつる聲きこゆらん	
+kameyamadono-nanahyakushu-000156	156		仕時鳥	もらせたゝしのふの森の時鳥きらつとたにも人にかたらし	
+kameyamadono-nanahyakushu-000157	157		岡へ時鳥	時鳥聞てそあかぬ誰になをしのふの岡のよはの一こゑ	
+kameyamadono-nanahyakushu-000158	158		野村鳥	ほとゝきすしはしなすきそむさしのはなきて入へき山端もなし	
+kameyamadono-nanahyakushu-000159	159		出火原時鳥	夏きてもけふみかの原泉川いつしかもなく時鳥かな	
+kameyamadono-nanahyakushu-000160	160		関時鳥	声をなきて過れとほとゝきす空にはとむる関守もなし	
+kameyamadono-nanahyakushu-000161	161		浦時鳥	しほたれてまつとはしるや時鳥心つくしのすまの浦人	
+kameyamadono-nanahyakushu-000162	162		渡時鳥	いつくにかやとをはからん時鳥さのゝわたりを鳴てゆく也	
+kameyamadono-nanahyakushu-000163	163		菅中時鳥	思ひねの心つくしの夢路にはみれともきうぬ時鳥哉	
+kameyamadono-nanahyakushu-000164	164		菊聞時鳥	人しれす我ためとてやほとゝきすひとりね覚の枕とふらん	
+kameyamadono-nanahyakushu-000165	165		時鳥何方富小路前大納言	行方をしのひやすらん時鳥たゝ一声をそらになくなり	
+kameyamadono-nanahyakushu-000166	166		郭公幽同	ね覚とふ雲井のよその郭公聞をも夢とおもひけるかな	
+kameyamadono-nanahyakushu-000167	167		田家早苗	山里の門田のおもに水こえてすゝしくけふは早苗とる也	
+kameyamadono-nanahyakushu-000168	168		総早苗	かきくらし雨は降きぬ早苗とる山田の田子や猶いそくらん	
+kameyamadono-nanahyakushu-000169	169		早苗多	けふもよた取手あまたにいそけとも山田の早苗猶もつきせぬ	
+kameyamadono-nanahyakushu-000170	170		沼菖蒲	君か代のなかくひさしきためしとて沼のめやめのねをやひくらん	
+kameyamadono-nanahyakushu-000171	171		菖蒲	あやめ草何とふくらん五月雨はもらてあるへき軒端ならぬに	
+kameyamadono-nanahyakushu-000172	172		苅菖蒲同	たか袖のものとはなしにおしなへてさ月のぬまにあやめかるらん	
+kameyamadono-nanahyakushu-000173	173		焼盧橘	暁のまくらに匂ふ立花は老のねさめのおりを知けり	
+kameyamadono-nanahyakushu-000174	174		慮橘風	むかししる花橘のゆふかせにぬしさたまらぬ袖のかそする	
+kameyamadono-nanahyakushu-000175	175		故即盧橘	立花のにほはさりせはふりにける昔なからのやとはしられし	
+kameyamadono-nanahyakushu-000176	176			露はらふ風もすゝしきあふちさく外面のかけの夏の夕くれ	
+kameyamadono-nanahyakushu-000177	177			あらしやまくるゝよりふる五月雨にふけてそ瀧の音はきこゆる	
+kameyamadono-nanahyakushu-000178	178			日数へてかさなる雲の花まもなしくらふの山の五月雨のころ	
+kameyamadono-nanahyakushu-000179	179			宮木引杣山河に浪こえてくたすもはやき五月雨のころ	
+kameyamadono-nanahyakushu-000180	180			人はいさかよひやすらん五月雨のふりてひさしきまゝのつき橋	
+kameyamadono-nanahyakushu-000181	181			芦の葉に波やこゆらん入江こく舟もさはらぬ五月雨のころ	
+kameyamadono-nanahyakushu-000182	182			五月雨のはれまもまたす山姫のさらしそへたる布引の瀧	
+kameyamadono-nanahyakushu-000183	183			五月雨にみかさまさりて泉川いつはるへくもみえぬ空哉	
+kameyamadono-nanahyakushu-000184	184		為文之	さみたれにみかさやまさる音たてゝ打出の浜の沖つしら波	
+kameyamadono-nanahyakushu-000185	185			須磨の浦やあまの衣のほす日さへまとをにはるゝ五月雨の空	
+kameyamadono-nanahyakushu-000186	186			はれまなき程にもすきて故郷の軒端くち行五月雨の頃	
+kameyamadono-nanahyakushu-000187	187		水鶏	つれもなきたか槙の戸をめくるまてたゝきもすてぬ水鶏なる	
+kameyamadono-nanahyakushu-000188	188		夏夜	夜をかさね秋にや夢も通ふらんかたくきすゝしうたゝねの袖	
+kameyamadono-nanahyakushu-000189	189		雲間夏月	立まよふ雲まにとめよ夏の月いるへきかたの嶺をへたてゝ	
+kameyamadono-nanahyakushu-000190	190		水辺夏月	手にむすふ水には秋のかよふとて月はすゝしくやとるなりけり	
+kameyamadono-nanahyakushu-000191	191		夏月似秋	夏衣袂に月をやとしても秋のこゝろそいとゝわすれぬ	
+kameyamadono-nanahyakushu-000192	192		夏月涼	村雲のたえまはうすき影なから源しくふくる短夜の月	
+kameyamadono-nanahyakushu-000193	193		夏月易明	また昔と思ふものから夏のしらむか月の明やすき空	
+kameyamadono-nanahyakushu-000194	194		題明佳森露	ちりならて又やはらはん床夏の花のまかきにをけるしら露	
+kameyamadono-nanahyakushu-000195	195		建明佳麦	くれなるの色こそまされ夕つく日さすやかきねのやまと掻子	
+kameyamadono-nanahyakushu-000196	196		夏草露	夏草のしけみにをけるしら露はしられぬ秋そみれはさきたつ	
+kameyamadono-nanahyakushu-000197	197		杜夏草	夏木立露も帯も数そへてしける三笠のもりの下草	
+kameyamadono-nanahyakushu-000198	198		野夏草	かち人のわくるもしるく吹風の絶まになひく野への夏草	
+kameyamadono-nanahyakushu-000199	199		径夏草	夏草はいかにもしけれ我道のかさなる跡を誰かうつまん	
+kameyamadono-nanahyakushu-000200	200		庭夏草	小田わけん人もたのまぬみやさへの宿にはしけれ庭の夏くさ	

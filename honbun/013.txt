@@ -1,0 +1,50 @@
+kameyamadono-nanahyakushu-000601	601		名所故	旅衣波のたよりに東路の大磯小磯ともにみしかな	
+kameyamadono-nanahyakushu-000602	602		名所行	よる波の音はかはらすからさきの緒の松はとしけぬれとも	
+kameyamadono-nanahyakushu-000603	603		名所崎	きの国やゆらのみ崎に日かすへて数かきりなく玉ひろふ也	
+kameyamadono-nanahyakushu-000604	604		名所嶋	かこのしまよせくる波のさゆる日は日影をつたふたつのもろな	
+kameyamadono-nanahyakushu-000605	605		名所潟	うらみしよ月は有明になるみかたしほのこちひを空にしるとは	
+kameyamadono-nanahyakushu-000606	606		名所田	ゆたかなる年そかさねへ春をなすとは田のおものゆくすゑの秋	
+kameyamadono-nanahyakushu-000607	607		名所村	すみのほる光をそへよ名にたつる玉哥の村のやまのはの月	
+kameyamadono-nanahyakushu-000608	608		名所市	みわの市我道たつるしあらはさてもいやしき名をやかふへき	
+kameyamadono-nanahyakushu-000609	609		名所者	さゝ波やしかの都はふりぬれと昔まへる御代にあふらん	
+kameyamadono-nanahyakushu-000610	610		名所津	我君のめくみもひろきなかれ哉秋津の嶋の波の外まて	
+kameyamadono-nanahyakushu-000611	611			鳥の音もいそかれぬよそなかりける草のまくらのかりねと思へは	
+kameyamadono-nanahyakushu-000612	612			行末を猶こそいそけ旅の空朝ふむ駒のあしにまかせて	
+kameyamadono-nanahyakushu-000613	613			今しはし夕影まちて山こえん清水すゝしきあふ坂の関	
+kameyamadono-nanahyakushu-000614	614			そことなき里のしるへの夕煙たちもとまらぬ旅の空かな	
+kameyamadono-nanahyakushu-000615	615			みしかさも旅ねはわかす夏引の手引の糸のよるそかなしき	
+kameyamadono-nanahyakushu-000616	616			行末もいくへ越なん岩ねふみかさなる嶺のあとのしら雲	
+kameyamadono-nanahyakushu-000617	617			うき枕波のこまりはかはれともおなし都にかよふゆめかな	
+kameyamadono-nanahyakushu-000618	618		岡崎中里	けふいく日ゆくを限りに行暮て里をはわかぬ旅ねしつらん	
+kameyamadono-nanahyakushu-000619	619		岡崎中渡	打わたすみつのわたりはよをこめて末は淀のゝ明ほのゝそら	
+kameyamadono-nanahyakushu-000620	620			故郷をしのふにつけて秋風のいとゝ身にしむし河の関	
+kameyamadono-nanahyakushu-000621	621		前藤大紀言	日数のみへたてゆくとも心をはみやこにかけてこゆる山みち	
+kameyamadono-nanahyakushu-000622	622			思ひねの夢をたよりに草まくらかりねにちかく都をそみる	
+kameyamadono-nanahyakushu-000623	623		岡崎中思	したはるゝ我故郷のことつてはなきも都の人そまたるゝ	
+kameyamadono-nanahyakushu-000624	624			遠さかる都を応て旅衣袖にかゝるはなみたなりけり	
+kameyamadono-nanahyakushu-000625	625			此ころは道ある御代に逢坂の関はゆきゝの人もまよはし	
+kameyamadono-nanahyakushu-000626	626			ねられねは夢はさたかにみえもせて露こそむすへ草のまくらに	
+kameyamadono-nanahyakushu-000627	627			草枕むすひかさねて小筵にころもかたくきいくよかもねん	
+kameyamadono-nanahyakushu-000628	628			わけきても幾人になりぬ旅衣かさなる山の雲をたよりに	
+kameyamadono-nanahyakushu-000629	629			こきとむる湊の舟のいまもまたしらぬとまりにかゝるゆふなき	
+kameyamadono-nanahyakushu-000630	630			けふも又かさなる山を越くれて雲のそこなる入おひのかね	
+kameyamadono-nanahyakushu-000631	631		山家路	ゆきかへり千代のふる道ふみわけてつかふるさかの身とそなりぬる	
+kameyamadono-nanahyakushu-000632	632		山家橋	たれかまたわたしそめけん山里のめやうき道の谷の柴橋	
+kameyamadono-nanahyakushu-000633	633		山家水	亀の尾の山の岩年にすきみめて千代のかけみる庭の池水	
+kameyamadono-nanahyakushu-000634	634		山家庭	秋をへておとろかぬまて成にけりまかきになるゝさをしかの声	
+kameyamadono-nanahyakushu-000635	635		山家草	たれかまた山のかけ草おぬとも人にしられぬ身をかくすらん	
+kameyamadono-nanahyakushu-000636	636		山家苦	山里の岩ねにむせるこけ筵たれいにらへをしきしのふらん	
+kameyamadono-nanahyakushu-000637	637		山家来	山陰はたつぬる人もあらはこそ杉のしるしをみてもとひこめ	
+kameyamadono-nanahyakushu-000638	638		山家鳥為冬	さまになきてそなるゝ鳥のねのきこえぬ山も有てふ物を	
+kameyamadono-nanahyakushu-000639	639		山家虫	秋もなをさひしとおもふ山里も身にしられぬるむしのなか哉	
+kameyamadono-nanahyakushu-000640	640		山家獣	としふれはふすゐの床もへたゝらてなれぬる山のおくの庵哉	
+kameyamadono-nanahyakushu-000641	641		田家春	我門の苗代水やまさるらん小田の蛙の声しきるなり	
+kameyamadono-nanahyakushu-000642	642		田家夏	あつくるより門田の早苗とりそめてくれむまてに猶いそくかな	
+kameyamadono-nanahyakushu-000643	643		田家秋	よをあきの田中の庵のありしとてかゝるところに身をもすてぬる	
+kameyamadono-nanahyakushu-000644	644		田家冬	冬くれは田面のひつち霜とちて人なき庭に月そもりける	
+kameyamadono-nanahyakushu-000645	645		田家風	今よりはあれにし庵やかこはまし稲葉かきわけ秋風そふく	
+kameyamadono-nanahyakushu-000646	646		田家雲	庵むすふ田面のかせに吹しきていなはの雲そ立ものほらぬ	
+kameyamadono-nanahyakushu-000647	647		田家煙	あはれともけふりの末を人はみよ田つらの庵の心ほそさは	
+kameyamadono-nanahyakushu-000648	648		田家雨計里丸	まはらなる小田のかりいほもる雨に涙をそへてぬるく袖かな	
+kameyamadono-nanahyakushu-000649	649		田家露	よもすから露もおきゐて秋の田のいほもる袖をしほるころ哉	
+kameyamadono-nanahyakushu-000650	650		田家霜	もるとせしかりほの庵もめとふりぬ田面の霜の冬の朝あけ	

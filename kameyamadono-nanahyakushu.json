@@ -5,7 +5,12 @@
  "yomi": "かめやまどのななひゃくしゅ",
  "category": "私撰集",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "定数歌（七百首）",
+  "era": "文永2年（1265）",
+  "author": "亀山院と歌人たち",
+  "desc": "亀山殿で詠まれた七百首の歌。鎌倉中期の宮廷歌壇の作を伝える。"
+ },
  "editions": [
   {
    "pid": "2576227",

@@ -6,8 +6,8 @@ kameyamadono-nanahyakushu-000355	355		冨小路前大紀言	かつはるゝ日�
 kameyamadono-nanahyakushu-000356	356		紅葉映日	時のまも移ろふ色のふかき哉はれて入日のみねのもみちは	
 kameyamadono-nanahyakushu-000357	357		紅葉如錦	もみち葉は立田の川の水のあやにかさねてをれるにしき也けり	
 kameyamadono-nanahyakushu-000358	358		暮秋雲	月はかつのこるもみえぬ村雲にしくれていとゝ秋やくれなん	
-kameyamadono-nanahyakushu-000359	360		暮秋霜	芦かきのかれ葉は冬もちかしみや秋のとなりとをける霜哉	
-kameyamadono-nanahyakushu-000360	359			たしめとも今つきぬなり暁のかねをかきりの秋のわかれち	
+kameyamadono-nanahyakushu-000359	359		暮秋霜	芦かきのかれ葉は冬もちかしみや秋のとなりとをける霜哉	
+kameyamadono-nanahyakushu-000360	360			たしめとも今つきぬなり暁のかねをかきりの秋のわかれち	
 kameyamadono-nanahyakushu-000361	361			吹おろす峯のあらしの音まてもね覚はけしく冬はきにけり	
 kameyamadono-nanahyakushu-000362	362		初冬嵐	小倉山けさ音たかく松に吹みねのあらしも冬をしりけり	
 kameyamadono-nanahyakushu-000363	363		初時雨	晴くもるほとたにみえす初時たふりあへぬまに冬はきにけり	
